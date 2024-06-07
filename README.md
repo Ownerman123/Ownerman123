@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ownerman123
-- 👀 I’m interested in my board game icecubes
-- 🌱 I’m currently learning express.js
-- 💞️ I’m looking to collaborate on ... I dont know yet still learning the basics
-- 📫 How to reach me ... *Shrugs*
+- 👀 I’m interested in my board game iceolation 
+- 🌱 I’m currently learning fullstack web developement
+- 💞️ I’m looking to collaborate on ... I dont know yet still lea
+- 📫 How to reach me ... Email me bro charlesshumway1@gmail.com
 - ⚡ Fun fact: ... im new to this so also not very good yet. Keyword yet.
 
 <!---
